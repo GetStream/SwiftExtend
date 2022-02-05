@@ -14,7 +14,7 @@ SwiftUI Layout and Composition
 <a href="https://youtu.be/tZL-CvtgWqQ"> YouTube Tutorial</a>
 
 ## Design Messages UI Clone: The Contacts List: <a href="https://github.com/GetStream/SwiftUIMessagesUIClone"> All XCode Projects and Animations (SwiftUI)</a>
-![Design Messages UI Clone: The Contacts List](https://github.com/GetStream/SwiftUIFlow/blob/main/CustomShapeOutlines/drawAnimatePath.gif)
+![Design Messages UI Clone: The Contacts List](https://github.com/GetStream/SwiftUIMessagesUIClone/blob/main/GIF%20previews/messagesContactList.gif)
 <a href="https://youtu.be/mDjOiijwc-k"> YouTube Tutorial</a>
 
 ## Design Chats View with design and animation components <a href="">Gist (SwiftUI)</a>
