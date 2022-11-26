@@ -6,9 +6,6 @@ All coming soon!!!
 ## GradientNames
 ---
 
-## GradientNames
----
-
 ## ColorNames
 ---
 
